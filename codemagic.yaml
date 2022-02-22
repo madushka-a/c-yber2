@@ -1,0 +1,5 @@
+workflows:
+  c-yber2workflow:
+    name: c-yber2workflow
+    scripts:
+      - echo "c-yber2"
